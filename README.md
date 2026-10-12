@@ -20,6 +20,8 @@ In modern cloud security, you cannot secure what you don't understand. Setting u
 ---
 
 ## Quick Navigation
-1. [Subaccount Setup](docs/01-subaccount-setup.md)
-2. [Database Provisioning & Deployment Setup](docs/02-project-deployment.md)
-3. [Known Issues & Troubleshooting](docs/03-issues-and-troubleshooting.md)
+1. [Environment & Identity Setup](docs/01-environment-and-identity-setup.md)
+2. [Database Provisioning](docs/02-database-provisioning.md)
+3. [MTA Deployment](docs/03-deployment.md)
+4. [Work Zone Configuration](docs/04-workzone-configuration.md)
+5. [Known Issues & Troubleshooting](docs/issues-and-troubleshooting.md)
