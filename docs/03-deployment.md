@@ -47,4 +47,7 @@ cf deploy mta_archives/incident-management_1.0.0.mtar
 ```
 4. Verified application status within the SAP BTP Cockpit to ensure active running state for the core service and successful execution of the database deployer module.
 
-
+## Executed
+- [x] Downloaded and unarchived the CAP application source code inside SAP Business Application Studio.
+- [x] Established authenticated Cloud Foundry session.
+- [x] Successfully compiled the Multi-Target Application archive (.mtar) using the SAP MTA Build Tool.
