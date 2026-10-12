@@ -1,4 +1,4 @@
-# SAP BTP Incident Management App: Setup 
+# Setup and Deployment the SAP CAP Incident Management App on SAP BTP 
 
 This repository documents my hands-on process of setting up, and deploying an enterprise-grade cloud application from scratch.
 
