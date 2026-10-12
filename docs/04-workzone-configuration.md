@@ -19,7 +19,7 @@ Understanding HTML5 application repositories, portal content providers, site man
 
 ## Step 1: Managing Channels & Content Providers
 1. Navigated to the BTP Subaccount Cockpit and opened **Instances and Subscriptions > SAP Build Work Zone, Standard Edition**.
-2. Accessed **Channel Manager** and verified the status of the **HTML5 Apps** content provider (`saas_approuter`).
+2. Accessed **Channel Manager** and verified the status of the **HTML5 Apps** content provider.
 3. Triggered a sync to ensure all recently deployed HTML5 application artifacts were updated in the portal repository.
 
 ![Channel Manager Configuration](../screenshots/channel-manager.png)
