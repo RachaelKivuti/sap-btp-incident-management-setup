@@ -4,14 +4,14 @@ This repository documents my hands-on process of setting up, and deploying an en
 
 ---
 
-## What is this Project?
+## What is this project?
 The **Secure Incident Management** application is a sample enterprise ticketing and tracking system built on the **SAP Cloud Application Programming Model (CAP)**. 
 
 While it functions like a standard internal helpdesk tool (managing incidents, statuses and users), it is purposely designed as a **security and compliance playground**. It bridges the gap between enterprise cloud architecture and application security, preparing us to explore real-world vulnerabilities like **Broken Access Control**.
 
 ---
 
-## Why Deploy This as a Beginner?
+## Why deploy this as a beginner?
 In modern cloud security, you cannot secure what you don't understand. Setting up this architecture teaches you the critical layers of enterprise applications:
 1. **Cloud Infrastructure:** Deploying multi-tier apps onto **SAP BTP (Business Technology Platform)** and **SAP HANA Cloud**.
 2. **Identity & Access Management (IAM):** Configuring Custom Identity Providers (IAS), importing users via SCIM 2.0 and assigning **Role Collections**. (In the real world, misconfigured permissions here lead to major security breaches!)
