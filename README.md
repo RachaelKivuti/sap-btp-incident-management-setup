@@ -7,7 +7,7 @@ This repository documents my hands-on process of setting up, and deploying an en
 ## Application Overview
 The **Secure Incident Management** application is a sample enterprise ticketing and tracking system built on the **SAP Cloud Application Programming Model (CAP)**. 
 
-While it functions like a standard internal helpdesk tool (managing incidents, statuses and users), it is purposely designed as a **security and compliance playground**. It bridges the gap between enterprise cloud architecture and application security, preparing us to explore real-world vulnerabilities like **Broken Access Control**.
+While it functions like a standard internal helpdesk tool (managing incidents, statuses and users), it is purposely designed as a **security and compliance playground**. It bridges the gap between enterprise cloud architecture and application security, preparing us to explore real-world vulnerabilities.
 
 ---
 
