@@ -19,14 +19,6 @@ In modern cloud security, you cannot secure what you don't understand. Setting u
 
 ---
 
-## Repository Structure
-
-* `docs/` - Step-by-step, beginner-friendly deployment guides and terminal command walkthroughs.
-* `screenshots/` - Visual checkpoints for every configuration step to keep you on track.
-* `issues-and-troubleshooting.md` - A personal log of real roadblocks hit along the way (endpoint routing, landscape variations and CLI targeting errors) and their solutions.
-
----
-
 ## Quick Navigation
 1. [Subaccount Setup](docs/01-subaccount-setup.md)
 2. [Database Provisioning & Deployment Setup](docs/02-project-deployment.md)
