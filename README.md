@@ -1,4 +1,4 @@
-# SAP BTP Secure Incident Management: Setup 
+# SAP BTP Incident Management App: Setup 
 
 This repository documents my hands-on process of setting up, and deploying an enterprise-grade cloud application from scratch.
 
