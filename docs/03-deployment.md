@@ -5,7 +5,7 @@ This document records the exact steps executed inside the SAP Business Applicati
 ## BTP Architecture & Setup Breakdown
 Understanding packaging formats, enterprise authentication flows and runtime deployment pipelines.
 
-| BTP Hierarchy Level | Phase / Step | Key Configuration Actions |
+| BTP Hierarchy Level | Step | Key Configuration Actions |
 | :--- | :--- | :--- |
 | **Cloud Foundry Runtime**<br>*(Application Architecture)* | **Step 1: Project Acquisition** | • Initialize workspace directory<br>• Download CAP sample project release package<br>• Extract project structure |
 | **Cloud Foundry CLI**<br>*(Security & Access)* | **Step 2: Authentication** | • Target regional Cloud Foundry API endpoint<br>• Authenticate <br>• Confirm target organization and dev space |
